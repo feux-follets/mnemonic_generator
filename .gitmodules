@@ -1,0 +1,3 @@
+[submodule "lib/RNG"]
+	path = lib/RNG
+	url = git@github.com:feux-follets/RNG.git
