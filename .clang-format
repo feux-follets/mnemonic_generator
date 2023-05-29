@@ -1,0 +1,21 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+AlignArrayOfStructures: Right
+AlignEscapedNewlines: Left
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortLambdasOnASingleLine: Inline
+AlwaysBreakTemplateDeclarations: Yes
+ColumnLimit: 120
+IndentCaseLabels: true
+IndentWidth: 4
+InsertNewlineAtEOF: true
+LineEnding: LF
+PointerAlignment: Left
+SeparateDefinitionBlocks: Always
+ShortNamespaceLines: 0
+SpaceBeforeCpp11BracedList: true
+TabWidth: 4
+UseTab: Always
+...
